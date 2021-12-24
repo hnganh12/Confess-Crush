@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Bấc ngờ chưa",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'Cho Hnganh ne`',
     introDesc: `Thích làm z hoi chứ có j đâu`,
     btnIntro: 'âu kêy',
     title: 'B iu sẽ mua sữa kem lắc đào cho tao phải hông 🥰',
