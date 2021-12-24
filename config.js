@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Tao biếc mà 🥰. Mơn b iu nka 😘😘',
     messDesc: 'Thưởng cho chơi gêm cả ngày tối đa 2 tiếng nhóa :>',
     btnAccept: 'Uầy nhiều wa cảm ơn niu',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/hlhn0221/' 
 }
